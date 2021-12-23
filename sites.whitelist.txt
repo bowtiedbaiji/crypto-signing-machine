@@ -1,0 +1,41 @@
+# apt
+
+.ubuntu.com
+.brave.com
+.pop-os.org
+
+# primary
+
+.infura.io
+.coingecko.com
+.cryptocompare.com
+.etherscan.io
+.crypto.com
+
+.codefi.network
+.pokt.network
+
+.images.prismic.io
+.metamask.github.io
+
+
+# defi
+api.avax.network
+snowtrace.io
+api.thegraph.com
+.traderjoexyz.com
+
+
+# apps
+app.olympusdao.finance
+app.wonderland.money
+
+
+# software
+
+.trezor.io
+# chrome.google.com
+# .googleusercontent.com
+
+
+
